@@ -13,26 +13,37 @@ class Termos extends StatelessWidget {
             children: [
               TextSpan(
                 text: "Terms.",
-                style: TextStyle(decoration: TextDecoration.underline),
+                style: TextStyle(
+                  decoration: TextDecoration.underline,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               TextSpan(
                 text: " Learn how we process your data in our ",
               ),
               TextSpan(
                 text: "Privacy",
-                style: TextStyle(decoration: TextDecoration.underline),
+                style: TextStyle(
+                  decoration: TextDecoration.underline,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               TextSpan(text: " "),
               TextSpan(
                 text: "Policy",
-                style: TextStyle(decoration: TextDecoration.underline),
+                style: TextStyle(
+                  decoration: TextDecoration.underline,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               TextSpan(
                 text: " and ",
               ),
               TextSpan(
                 text: "Cookies Policy.",
-                style: TextStyle(decoration: TextDecoration.underline),
+                style: TextStyle(
+                    decoration: TextDecoration.underline,
+                    fontWeight: FontWeight.bold),
               )
             ]),
       ),

@@ -86,7 +86,7 @@ class Botoes extends StatelessWidget {
             child: Row(
               children: [
                 Padding(
-                  padding: const EdgeInsets.only(left: 20, right: 60),
+                  padding: const EdgeInsets.only(left: 20, right: 50),
                   child: Image.asset(
                     'assets/conversation.png',
                     height: 15,
