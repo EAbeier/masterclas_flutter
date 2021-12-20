@@ -1,0 +1,12 @@
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/assets/apple.png
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/assets/conversation.png
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/assets/facebook.png
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/assets/tinder.png
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

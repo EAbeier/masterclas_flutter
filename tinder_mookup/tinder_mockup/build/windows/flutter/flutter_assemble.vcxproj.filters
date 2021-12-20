@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\build\windows\CMakeFiles\9eaecb14fa0d04318761fbcd98e8bde1\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\build\windows\CMakeFiles\d636aa18f17dbb85e85a22d5e0c6d8ea\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A673F1C-D94F-3AE8-8940-B8932494A464}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

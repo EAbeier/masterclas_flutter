@@ -1,0 +1,10 @@
+^C:\USERS\EMERS\PROJETOS\PARQUINHO_DART\TINDER_MOOKUP\TINDER_MOCKUP\BUILD\WINDOWS\CMAKEFILES\076660E98CAF1FDA26313BD624A9C901\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

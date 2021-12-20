@@ -1,0 +1,28 @@
+^C:\USERS\EMERS\PROJETOS\PARQUINHO_DART\TINDER_MOOKUP\TINDER_MOCKUP\BUILD\WINDOWS\CMAKEFILES\9EAECB14FA0D04318761FBCD98E8BDE1\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Development\flutter PROJECT_DIR=C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup FLUTTER_ROOT=C:\Development\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\windows\flutter\ephemeral PROJECT_DIR=C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup FLUTTER_TARGET=C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\emers\Projetos\parquinho_dart\tinder_mookup\tinder_mockup\.dart_tool\package_config.json C:/Development/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\EMERS\PROJETOS\PARQUINHO_DART\TINDER_MOOKUP\TINDER_MOCKUP\BUILD\WINDOWS\CMAKEFILES\D636AA18F17DBB85E85A22D5E0C6D8EA\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\EMERS\PROJETOS\PARQUINHO_DART\TINDER_MOOKUP\TINDER_MOCKUP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/windows -BC:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows --check-stamp-file C:/Users/emers/Projetos/parquinho_dart/tinder_mookup/tinder_mockup/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
